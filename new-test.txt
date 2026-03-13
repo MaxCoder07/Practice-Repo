@@ -1,3 +1,0 @@
-This is now another practice test file for today and we will test more
-new-test.txt
-EOC
