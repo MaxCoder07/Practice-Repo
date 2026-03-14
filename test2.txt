@@ -1,0 +1,8 @@
+Hi this is the second day of using git and just practicing some basic commands to run and execute today
+Adding the files with touch command
+using git status and git log to check the activities
+git add and commit command and pushing changes to github repository 
+and stashing the files and popping them up again
+removing the files with clear command
+and more to learn today as well
+Thanks
